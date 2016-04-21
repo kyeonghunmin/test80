@@ -5,20 +5,6 @@ public class Hello2 {
     System.out.println("okok");
     System.out.println("okok");
     System.out.println("okok");
-    System.out.println("okok");
-    System.out.println("okok");
-    
-    System.out.println("nonono");
-    System.out.println("nonono");
-    System.out.println("nonono");
-
-    System.out.println("nonono");
-    System.out.println("nonono");
-    System.out.println("nonono");
-    System.out.println("nonono");
-    System.out.println("123123");
-    System.out.println("nonono");
-    System.out.println("nonono");
 
   }
 }
